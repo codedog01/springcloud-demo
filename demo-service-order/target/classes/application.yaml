@@ -1,0 +1,22 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: service-order
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: 4c8be956-4508-4215-bca7-96c28a188773
+        group: dev
+        file-extension: yaml
+        prefix: service-order-dev
+      discovery:
+        server-addr: localhost:8848
+        namespace: 4c8be956-4508-4215-bca7-96c28a188773
+        group: dev
+  datasource:
+    username: root
+    password: LA@zzx123.
+    url: jdbc:mysql://43.143.152.130:3306/springcloud-demo?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+

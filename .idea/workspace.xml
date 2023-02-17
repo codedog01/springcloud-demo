@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a111da23-ce0b-4be3-960a-d3d7b4e18548" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo-rabbitmq">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="ApplicationTest.test1" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\1\apache-maven-3.8.4\repository" />
+        <option name="mavenHome" value="F:/1/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="F:\1\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EQqXJctwkF7AsmghEw8DhBdeDY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/demo-service-payment/src/main/java/com/lengao/springclouddemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-service-order/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27816093" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lengao.pojp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lengao" />
+      <recent name="com.lengao.pojp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common\src\main\java\com\lengao\springcloud" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\java\com\lengao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-service-order\src\main\java" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\java\com\lengao\design\single" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\test\resources" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\test\java" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lengao.springcloud.demogoods.config" />
+      <recent name="demoorder.mapper" />
+      <recent name="com.lengao.springcloud.demogoods" />
+      <recent name="com.lengao.redis" />
+      <recent name="com.lengao.pojp" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="demoorder.dto" />
+      <recent name="com.lengao" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888/goods/sell" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888/user/add" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/user/add" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/add" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GoodsApplication">
+    <configuration name="BoomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lengao.boom.BoomTest" />
+      <module name="springcloud-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lengao.boom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springcloud.demoredis.config.RedissonConfig" />
+      <module name="demo-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springcloud.demoredis.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lengao.Test" />
+      <module name="springcloud-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lengao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.demorabbitmq.DemoRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.demoredis.DemoRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lengao.springcloud.demogoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lengao.springcloud.demogoods.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-service-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demoorder.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RedissonConfig" />
+        <item itemvalue="Application.BoomTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LengAo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a111da23-ce0b-4be3-960a-d3d7b4e18548" name="Default Changelist" comment="" />
+      <created>1662538194004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662538194004</updated>
+      <workItem from="1662538200583" duration="19557000" />
+      <workItem from="1662622087274" duration="1222000" />
+      <workItem from="1662691339017" duration="4735000" />
+      <workItem from="1663030442699" duration="360000" />
+      <workItem from="1663125028606" duration="1288000" />
+      <workItem from="1663145240594" duration="1390000" />
+      <workItem from="1663220541669" duration="588000" />
+      <workItem from="1666141576750" duration="12706000" />
+      <workItem from="1666340330500" duration="6958000" />
+      <workItem from="1666763370035" duration="4895000" />
+      <workItem from="1666928542786" duration="9787000" />
+      <workItem from="1667280721348" duration="8536000" />
+      <workItem from="1667372231696" duration="5718000" />
+      <workItem from="1667876072746" duration="26999000" />
+      <workItem from="1668390686316" duration="10000" />
+      <workItem from="1668418036952" duration="10965000" />
+      <workItem from="1668582823170" duration="1992000" />
+      <workItem from="1668649308772" duration="1797000" />
+      <workItem from="1668651481310" duration="18656000" />
+      <workItem from="1669094489169" duration="1216000" />
+      <workItem from="1669944300726" duration="8684000" />
+      <workItem from="1670289679780" duration="7884000" />
+      <workItem from="1670895911980" duration="10015000" />
+      <workItem from="1670982651936" duration="26206000" />
+      <workItem from="1671154389046" duration="560000" />
+      <workItem from="1671675229829" duration="3581000" />
+      <workItem from="1672215504012" duration="17464000" />
+      <workItem from="1675308993721" duration="22345000" />
+      <workItem from="1675928502919" duration="3201000" />
+      <workItem from="1676255408034" duration="21608000" />
+      <workItem from="1676280789499" duration="1389000" />
+      <workItem from="1676285946113" duration="449000" />
+      <workItem from="1676286420399" duration="2016000" />
+      <workItem from="1676335570397" duration="22596000" />
+      <workItem from="1676423763385" duration="3152000" />
+      <workItem from="1676544425366" duration="2025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676432725813">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="484" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1676432725813" />
+    <state x="612" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1676356281542">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="612" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1671081029754" />
+    <state x="2685" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1670297254915" />
+    <state x="612" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1676356281542" />
+    <state x="357" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1676340842132">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="357" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1676340842132" />
+    <state x="2637" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1675928520558">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2637" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675928520558" />
+    <state x="2610" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668757602073">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2610" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668757602073" />
+    <state x="592" y="213" key="FileChooserDialogImpl" timestamp="1676256156876">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="592" y="213" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1669956887038" />
+    <state x="2660" y="270" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668651321143" />
+    <state x="592" y="213" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1676256156876" />
+    <state width="1492" height="232" key="GridCell.Tab.0.bottom" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
+    <state width="1876" height="305" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.0.center" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
+    <state width="1876" height="305" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.0.left" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997023" />
+    <state width="1876" height="305" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.0.right" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
+    <state width="1876" height="305" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.1.bottom" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
+    <state width="1876" height="305" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.1.center" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
+    <state width="1876" height="305" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.1.left" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
+    <state width="1876" height="305" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="232" key="GridCell.Tab.1.right" timestamp="1676611773147">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="305" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
+    <state width="1876" height="305" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
+    <state width="1492" height="232" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="226" key="GridCell.Tab.2.bottom" timestamp="1676280716823">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="556" key="GridCell.Tab.2.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
+    <state width="1492" height="226" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
+    <state width="1492" height="226" key="GridCell.Tab.2.center" timestamp="1676280716823">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="556" key="GridCell.Tab.2.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
+    <state width="1492" height="226" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
+    <state width="1492" height="226" key="GridCell.Tab.2.left" timestamp="1676280716823">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="556" key="GridCell.Tab.2.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
+    <state width="1492" height="226" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
+    <state width="1492" height="226" key="GridCell.Tab.2.right" timestamp="1676280716823">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1876" height="556" key="GridCell.Tab.2.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
+    <state width="1492" height="226" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
+    <state x="369" y="0" key="SettingsEditor" timestamp="1676423805951">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="369" y="0" key="SettingsEditor/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1670898282760" />
+    <state x="2381" y="160" key="SettingsEditor/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668477619068" />
+    <state x="369" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1676423805951" />
+    <state x="565" y="185" key="chooseDestDirectoryDialog" timestamp="1676433129044">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="565" y="185" key="chooseDestDirectoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1676433129044" />
+    <state x="2651" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1668749839547">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2651" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668749839547" />
+    <state x="469" y="79" width="598" height="658" key="find.popup" timestamp="1676434307610">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="469" y="79" width="598" height="658" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1676434307610" />
+    <state x="472" y="0" key="new project wizard" timestamp="1676611765904">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="490" y="0" key="new project wizard/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1669956895816" />
+    <state x="472" y="0" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1676611765904" />
+    <state x="498" y="176" width="672" height="537" key="search.everywhere.popup" timestamp="1676434312848">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="498" y="176" width="672" height="537" key="search.everywhere.popup/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1671081108460" />
+    <state x="2543" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668757716553" />
+    <state x="498" y="176" width="672" height="537" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1676434312848" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/lengao/ApplicationTest.java</url>
+          <line>91</line>
+          <properties class="lengao.ApplicationTest" method="test3">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lengao/boom/CacheBreakdown.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-redis/src/main/java/com/springcloud/demoredis/config/RedissonConfig.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-redis/src/main/java/com/springcloud/demoredis/config/RedissonConfig.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lengao/Test.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

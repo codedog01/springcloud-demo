@@ -1,0 +1,26 @@
+server:
+  port: 5672
+spring:
+  rabbitmq:
+    # ip地址
+    host: 43.143.152.130
+    # 端口
+    port: 5672
+    # 用户名
+    username: guest
+    # 密码
+    password: guest
+    publisher-confirms: true
+    publisher-returns: true
+    listener:
+      simple:
+        # 表示消费者消费成功消息以后需要手工的进行签收（ack确认），默认为 auto
+        acknowledge-mode: manual
+        concurrency: 5
+        max-concurrency: 10
+        prefetch: 1
+        retry:
+          initial-interval: 5000ms
+          enabled: true
+          max-attempts: 5
+        default-requeue-rejected: true
