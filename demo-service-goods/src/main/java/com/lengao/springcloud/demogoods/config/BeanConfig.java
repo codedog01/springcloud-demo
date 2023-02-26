@@ -1,8 +1,12 @@
 package com.lengao.springcloud.demogoods.config;
 
+import com.alibaba.cloud.nacos.ribbon.NacosRule;
 import com.baomidou.mybatisplus.autoconfigure.MybatisPlusPropertiesCustomizer;
 import com.baomidou.mybatisplus.core.incrementer.IdentifierGenerator;
 import com.lengao.springcloud.demogoods.utils.SnowflakeIdWorker;
+import com.netflix.loadbalancer.IRule;
+import com.netflix.loadbalancer.RandomRule;
+import feign.Logger;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -14,6 +18,11 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 public class BeanConfig {
+
+
+    IRule iRule(){
+        return new NacosRule();
+    }
 
 //    /**
 //     * 自定义主键生成策略 举报原因

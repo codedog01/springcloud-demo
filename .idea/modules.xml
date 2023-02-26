@@ -3,11 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-common/demo-common.iml" filepath="$PROJECT_DIR$/demo-common/demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka/demo-eureka.iml" filepath="$PROJECT_DIR$/demo-eureka/demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka-consumer/demo-eureka-consumer.iml" filepath="$PROJECT_DIR$/demo-eureka-consumer/demo-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka-service1/demo-eureka-service1.iml" filepath="$PROJECT_DIR$/demo-eureka-service1/demo-eureka-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka-service2/demo-eureka-service2.iml" filepath="$PROJECT_DIR$/demo-eureka-service2/demo-eureka-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka2/demo-eureka2.iml" filepath="$PROJECT_DIR$/demo-eureka2/demo-eureka2.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-rabbitmq/demo-rabbitmq.iml" filepath="$PROJECT_DIR$/demo-rabbitmq/demo-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-redis/demo-redis.iml" filepath="$PROJECT_DIR$/demo-redis/demo-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-service-goods/demo-service-goods.iml" filepath="$PROJECT_DIR$/demo-service-goods/demo-service-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-service-goods2/demo-service-goods2.iml" filepath="$PROJECT_DIR$/demo-service-goods2/demo-service-goods2.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-service-order/demo-service-order.iml" filepath="$PROJECT_DIR$/demo-service-order/demo-service-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-service-payment/demo-service-payment.iml" filepath="$PROJECT_DIR$/demo-service-payment/demo-service-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-service-order2/demo-service-order2.iml" filepath="$PROJECT_DIR$/demo-service-order2/demo-service-order2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud-demo.iml" />
     </modules>
   </component>

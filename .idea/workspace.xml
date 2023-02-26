@@ -1,7 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BeansEndpointTabSettings">
+    <option name="showContexts" value="false" />
+    <option name="showLibraryBeans" value="false" />
+    <option name="showLiveBeansGraph" value="false" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a111da23-ce0b-4be3-960a-d3d7b4e18548" name="Default Changelist" comment="" />
+    <list default="true" id="a111da23-ce0b-4be3-960a-d3d7b4e18548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_httpclient_10_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/demo-eureka-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/src/main/java/com/lengao/eureka/ConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/src/main/java/com/lengao/eureka/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/src/main/java/com/lengao/eureka/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/src/main/java/com/lengao/eureka/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/target/classes/com/lengao/eureka/Service2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/target/classes/com/lengao/eureka/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/target/classes/com/lengao/eureka/config/BeanConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-consumer/target/classes/com/lengao/eureka/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/demo-eureka-service1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/src/main/java/com/lengao/eureka/Service1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/src/main/java/com/lengao/eureka/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/src/main/java/com/lengao/eureka/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/src/main/java/com/lengao/eureka/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service1/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/demo-eureka-service2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/src/main/java/com/lengao/eureka/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/src/main/java/com/lengao/eureka/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/src/main/java/com/lengao/eureka/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka-service2/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka/demo-eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka/src/main/java/com/lengao/eureka/EurekaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/demo-eureka2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/src/main/java/com/lengao/eureka/EurekaApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-eureka2/target/classes/com/lengao/eureka/EurekaApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/GoodsApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/demo-service-goods2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/controller/HelloNacosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/feign/OrderServiceFeign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/mapper/GoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/service/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order/src/main/java/demoorder/OrderApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/demo-service-order2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/config/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/mapper/OrderDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/rabbitmq/OrderMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-order2/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springcloud-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springcloud-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-common/demo-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-common/demo-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-rabbitmq/demo-rabbitmq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-rabbitmq/demo-rabbitmq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-redis/demo-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-redis/demo-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/demo-service-goods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/demo-service-goods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/GoodsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods2/src/main/java/com/lengao/springcloud/demogoods/GoodsApplication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/feign/OrderServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/src/main/java/com/lengao/springcloud/demogoods/feign/OrderServiceFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/GoodsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/config/BeanConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/config/BeanConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/feign/OrderServiceFeign.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-goods/target/classes/com/lengao/springcloud/demogoods/feign/OrderServiceFeign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-order/demo-service-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-order/demo-service-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-order/src/main/java/demoorder/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-order2/src/main/java/demoorder/OrderApplication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-order/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-order/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-order/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-order/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-order/target/classes/demoorder/OrderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-payment/demo-service-payment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-payment/demo-service-payment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-service-payment/src/main/java/com/lengao/springclouddemo/PayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-service-payment/src/main/java/com/lengao/springclouddemo/PayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +199,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
       <run-configuration type="JUnit" name="ApplicationTest.test1" />
@@ -50,6 +217,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2EQqXJctwkF7AsmghEw8DhBdeDY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,12 +226,13 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo-service-payment/src/main/java/com/lengao/springclouddemo" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-service-order/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27816093" />
@@ -74,6 +243,10 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="demoorder.dto" />
+      <recent name="com.lengao" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.lengao.pojp" />
     </key>
@@ -84,28 +257,24 @@
       <recent name="com.lengao" />
       <recent name="com.lengao.pojp" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common\src\main\java\com\lengao\springcloud" />
-      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common" />
-      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\java\com\lengao" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-eureka-service1\src\main\java" />
       <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-service-order\src\main\java" />
       <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\java\com\lengao\design\single" />
       <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\test\resources" />
-      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\test\java" />
-      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lengao.eureka.controller" />
       <recent name="com.lengao.springcloud.demogoods.config" />
       <recent name="demoorder.mapper" />
       <recent name="com.lengao.springcloud.demogoods" />
       <recent name="com.lengao.redis" />
-      <recent name="com.lengao.pojp" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="demoorder.dto" />
-      <recent name="com.lengao" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common\src\main\java\com\lengao\springcloud" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springcloud-demo\demo-common" />
+      <recent name="D:\有灵魂的Java开发工程师进阶之路\springboot-demo\src\main\java\com\lengao" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -174,39 +343,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GoodsApplication">
-    <configuration name="BoomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lengao.boom.BoomTest" />
-      <module name="springcloud-demo" />
+  <component name="RunManager" selected="Spring Boot.GoodsApplication2">
+    <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lengao.eureka.ConsumerApp" />
+      <module name="demo-eureka-consumer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lengao.boom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedissonConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springcloud.demoredis.config.RedissonConfig" />
-      <module name="demo-redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.springcloud.demoredis.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lengao.Test" />
-      <module name="springcloud-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lengao.*" />
+          <option name="PATTERN" value="com.lengao.eureka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,7 +371,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodsApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="demo-service-goods" />
       <extension name="coverage">
         <pattern>
@@ -236,12 +379,25 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lengao.springcloud.demogoods.GoodsApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lengao.springcloud.demogoods.GoodsApplication1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodsApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-service-goods2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lengao.springcloud.demogoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lengao.springcloud.demogoods.GoodsApplication2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="demo-service-order" />
       <extension name="coverage">
         <pattern>
@@ -249,18 +405,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="demoorder.OrderApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demoorder.OrderApplication1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-service-order2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demoorder.OrderApplication2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lengao.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lengao.eureka.eureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerApp" />
+      <item itemvalue="Spring Boot.DemoRabbitmqApplication" />
+      <item itemvalue="Spring Boot.DemoRedisApplication" />
+      <item itemvalue="Spring Boot.eureka" />
+      <item itemvalue="Spring Boot.GoodsApplication2" />
+      <item itemvalue="Spring Boot.GoodsApplication1" />
+      <item itemvalue="Spring Boot.OrderApplication1" />
+      <item itemvalue="Spring Boot.OrderApplication2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GoodsApplication" />
-        <item itemvalue="Spring Boot.OrderApplication" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.RedissonConfig" />
-        <item itemvalue="Application.BoomTest" />
+        <item itemvalue="Spring Boot.GoodsApplication2" />
+        <item itemvalue="Spring Boot.GoodsApplication1" />
+        <item itemvalue="Spring Boot.OrderApplication1" />
+        <item itemvalue="Spring Boot.OrderApplication2" />
+        <item itemvalue="Application.ConsumerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -310,13 +502,37 @@
       <workItem from="1676335570397" duration="22596000" />
       <workItem from="1676423763385" duration="3152000" />
       <workItem from="1676544425366" duration="2025000" />
+      <workItem from="1676642071092" duration="302000" />
+      <workItem from="1676858170329" duration="36031000" />
+      <workItem from="1677331481230" duration="1887000" />
+      <workItem from="1677377376233" duration="591000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="403" y="0" width="744" height="816" key="#Application" timestamp="1677133618703">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="403" y="0" width="744" height="816" key="#Application/0.0.1536.816@0.0.1536.816" timestamp="1677133618703" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1677152746771">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1677152746771" />
     <state x="484" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676432725813">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -345,73 +561,73 @@
     <state x="592" y="213" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1669956887038" />
     <state x="2660" y="270" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668651321143" />
     <state x="592" y="213" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1676256156876" />
-    <state width="1492" height="232" key="GridCell.Tab.0.bottom" timestamp="1676611773147">
+    <state x="573" y="309" key="Github.CreateGistDialog" timestamp="1677141785993">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="573" y="309" key="Github.CreateGistDialog/0.0.1536.816@0.0.1536.816" timestamp="1677141785993" />
+    <state width="1492" height="365" key="GridCell.Tab.0.bottom" timestamp="1677230208132">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
     <state width="1876" height="305" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.0.center" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1677230208132" />
+    <state width="1492" height="365" key="GridCell.Tab.0.center" timestamp="1677230208130">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
     <state width="1876" height="305" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.0.left" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1677230208130" />
+    <state width="1492" height="365" key="GridCell.Tab.0.left" timestamp="1677230208129">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997023" />
     <state width="1876" height="305" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.0.right" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1677230208129" />
+    <state width="1492" height="365" key="GridCell.Tab.0.right" timestamp="1677230208131">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
     <state width="1876" height="305" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.1.bottom" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1677230208131" />
+    <state width="1492" height="365" key="GridCell.Tab.1.bottom" timestamp="1677228392480">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
     <state width="1876" height="305" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.1.center" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1677228392480" />
+    <state width="1492" height="365" key="GridCell.Tab.1.center" timestamp="1677228392480">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
     <state width="1876" height="305" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.1.left" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1677228392480" />
+    <state width="1492" height="365" key="GridCell.Tab.1.left" timestamp="1677228392479">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997024" />
     <state width="1876" height="305" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
-    <state width="1492" height="232" key="GridCell.Tab.1.right" timestamp="1676611773147">
+    <state width="1492" height="365" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1677228392479" />
+    <state width="1492" height="365" key="GridCell.Tab.1.right" timestamp="1677228392480">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1876" height="305" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1675933997025" />
     <state width="1876" height="305" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1675930120103" />
-    <state width="1492" height="232" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1676611773147" />
+    <state width="1492" height="365" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1677228392480" />
     <state width="1492" height="226" key="GridCell.Tab.2.bottom" timestamp="1676280716823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1876" height="556" key="GridCell.Tab.2.bottom/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
     <state width="1492" height="226" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
     <state width="1492" height="226" key="GridCell.Tab.2.center" timestamp="1676280716823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1876" height="556" key="GridCell.Tab.2.center/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
     <state width="1492" height="226" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
     <state width="1492" height="226" key="GridCell.Tab.2.left" timestamp="1676280716823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1876" height="556" key="GridCell.Tab.2.left/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
     <state width="1492" height="226" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
     <state width="1492" height="226" key="GridCell.Tab.2.right" timestamp="1676280716823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1876" height="556" key="GridCell.Tab.2.right/0.0.1536.816/1920.0.1920.1032@1920.0.1920.1032" timestamp="1668151943441" />
     <state width="1492" height="226" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1676280716823" />
     <state x="369" y="0" key="SettingsEditor" timestamp="1676423805951">
       <screen x="0" y="0" width="1536" height="816" />
@@ -423,6 +639,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="565" y="185" key="chooseDestDirectoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1676433129044" />
+    <state x="562" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1677132705407">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="562" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1677132705407" />
     <state x="2651" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1668749839547">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
@@ -431,11 +651,11 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="469" y="79" width="598" height="658" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1676434307610" />
-    <state x="472" y="0" key="new project wizard" timestamp="1676611765904">
+    <state x="472" y="0" key="new project wizard" timestamp="1677132789895">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="490" y="0" key="new project wizard/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1669956895816" />
-    <state x="472" y="0" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1676611765904" />
+    <state x="472" y="0" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1677132789895" />
     <state x="498" y="176" width="672" height="537" key="search.everywhere.popup" timestamp="1676434312848">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -449,7 +669,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/lengao/ApplicationTest.java</url>
           <line>91</line>
-          <properties class="lengao.ApplicationTest" method="test3">
+          <properties class="lengao.ApplicationTest">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />

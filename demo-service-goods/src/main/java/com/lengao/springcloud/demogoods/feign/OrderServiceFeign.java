@@ -1,5 +1,6 @@
 package com.lengao.springcloud.demogoods.feign;
 
+import com.lengao.springcloud.demogoods.config.FeignConfig;
 import com.lengao.springcloud.dto.OrderDTO;
 import com.lengao.springcloud.pojo.Order;
 import io.swagger.annotations.ApiOperation;
@@ -13,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
  * @author 冷澳
  * @date 2023/2/14
  */
-@FeignClient(name = "service-order")
+@FeignClient(name = "service-order",configuration = FeignConfig.class)
 @Component
 public interface OrderServiceFeign {
 

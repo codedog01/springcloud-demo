@@ -17,8 +17,14 @@
         <module>demo-redis</module>
         <module>demo-rabbitmq</module>
         <module>demo-service-goods</module>
+        <module>demo-service-goods2</module>
         <module>demo-service-order</module>
-        <module>demo-service-payment</module>
+        <module>demo-service-order2</module>
+        <module>demo-eureka</module>
+        <module>demo-eureka2</module>
+        <module>demo-eureka-consumer</module>
+        <module>demo-eureka-service1</module>
+        <module>demo-eureka-service2</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -41,6 +47,10 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>io.github.openfeign</groupId>
+            <artifactId>feign-httpclient</artifactId>
+        </dependency>
         <!-- spring boot相关 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

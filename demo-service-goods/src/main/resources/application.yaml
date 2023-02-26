@@ -15,8 +15,20 @@ spring:
         server-addr: localhost:8848
         namespace: 4c8be956-4508-4215-bca7-96c28a188773
         group: dev
+        cluster-name: SH
+
   datasource:
     username: root
     password: LA@zzx123.
     url: jdbc:mysql://43.143.152.130:3306/springcloud-demo?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
 
+
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: FULL
+  httpclient:
+    enabled: true
+    max-connections: 200 #最大连接数
+    max-connections-per-route: 50 #每个路径最大连接数

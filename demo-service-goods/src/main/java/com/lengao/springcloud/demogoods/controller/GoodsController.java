@@ -1,5 +1,8 @@
 package com.lengao.springcloud.demogoods.controller;
 
+import com.alibaba.nacos.api.NacosFactory;
+import com.alibaba.nacos.api.annotation.NacosInjected;
+import com.alibaba.nacos.api.config.ConfigService;
 import com.lengao.springcloud.demogoods.feign.OrderServiceFeign;
 import com.lengao.springcloud.demogoods.service.GoodsService;
 import com.lengao.springcloud.dto.OrderDTO;
@@ -27,6 +30,9 @@ public class GoodsController {
     @Autowired
     OrderServiceFeign orderServiceFeign;
 
+//    @NacosInjected
+//    private ConfigService configService;
+
     @PostMapping("addGoods")
     @ApiOperation("新增商品")
     int addGoods(@RequestBody Goods goods) {
@@ -52,28 +58,13 @@ public class GoodsController {
     }
 
 
-    @PostMapping("test/{msg}")
+    @GetMapping("test/{msg}")
     @ApiOperation("测试")
     String test(@PathVariable String msg) {
-        return orderServiceFeign.feignTest("hello" + msg);
-    }
+//        String serverStatus = configService.getServerStatus();
+//        return orderServiceFeign.feignTest(serverStatus + msg);
+                return orderServiceFeign.feignTest("serverStatus" + msg);
 
-    @PostMapping("buyGoods1")
-    @ApiOperation("测试2")
-    int test2(@RequestParam("ids") List<String> ids) {
-        return 1;
-    }
-
-    @PostMapping("buyGoods2")
-    @ApiOperation("测试3")
-    int test2(@RequestBody List<String> ids,@RequestBody List<String> ids2) {
-        return 1;
-    }
-
-    @PostMapping("buyGoods23")
-    @ApiOperation("测试4")
-    int test3(@RequestBody List<OrderDTO> ids) {
-        return 1;
     }
 
 }
