@@ -27,8 +27,14 @@ feign:
   client:
     config:
       default:
-        loggerLevel: FULL
+        logger-level: none
+        contract: feign.default #å¥‘çº¦é…ç½®
+        connect-timeout: 30000 # è¿æ¥è¶…æ—¶æ—¶é—´
+        read-timeout: 5000  #è¯·æ±‚å¤„ç†è¶…æ—¶
+        request-interceptors: #æ‹¦æˆªå™¨
+          - com.lengao.interceptor.CustomFeignInterceptor
   httpclient:
     enabled: true
-    max-connections: 200 #×î´óÁ¬½ÓÊı
-    max-connections-per-route: 50 #Ã¿¸öÂ·¾¶×î´óÁ¬½ÓÊı
+    max-connections: 200
+    max-connections-per-route: 50
+    connection-timeout:  111

@@ -25,6 +25,7 @@
         <module>demo-eureka-consumer</module>
         <module>demo-eureka-service1</module>
         <module>demo-eureka-service2</module>
+        <module>demo-gateway</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
