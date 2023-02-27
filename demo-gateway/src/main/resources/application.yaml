@@ -1,0 +1,17 @@
+server:
+  port: 9999
+spring:
+  #  profiles:
+  #    active: dev
+  application:
+    name: demo-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        namespace: 4c8be956-4508-4215-bca7-96c28a188773
+        group: dev
+#
+#    gateway:
+#      routes:
+#        id
